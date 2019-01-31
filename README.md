@@ -1,5 +1,15 @@
 # LyssalStructureBundle
 
+
+Ce dépôt est abandonné.
+
+Vous pouvez le remplacer par plusieurs autres dépôts :
+
+* [lyssal/doctrine-orm-bundle](https://packagist.org/packages/lyssal/doctrine-orm-bundle)
+* [lyssal/entity-bundle](https://packagist.org/packages/lyssal/entity-bundle)
+* [lyssal/twig-bundle](https://packagist.org/packages/lyssal/twig-bundle)
+
+
 LyssalStructureBundle contient différents outils facilitant le développement d'applications Symfony.
 
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/6e0264ed-220c-4726-92b5-a174e0556cf0/small.png)](https://insight.sensiolabs.com/projects/6e0264ed-220c-4726-92b5-a174e0556cf0)
